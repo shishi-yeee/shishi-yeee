@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shishi-yen
+- 👋 Hi, I’m Alicia.
 - 👀 I’m interested in reading.
 - 🌱 I’m currently learning machine-learning
 - 💞️ I’m looking to collaborate on ...
